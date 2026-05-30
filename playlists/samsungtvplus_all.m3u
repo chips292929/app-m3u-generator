@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 #EXTINF:-1 channel-id="GB800002OP-gb" tvg-id="GB800002OP" tvg-chno="4245" tvg-name="&TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB800002OP_20260407T040228SQUARE.png" group-title="United Kingdom",&TV
 https://jmp2.uk/stvp-GB800002OP
 #EXTINF:-1 channel-id="CABB26000082J-ca" tvg-id="CABB26000082J" tvg-chno="1600" tvg-name="21 Jump Street" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250826T234604SQUARE.png" group-title="Canada",21 Jump Street
